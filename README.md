@@ -67,7 +67,7 @@ Se procede a la simulación del circuito
 
 Se ejecuta la simulación del circuito en el sitio Tinkercat
 
-![image](https://user-images.githubusercontent.com/93950169/156997520-21f5720e-062f-429a-babc-9bcc03954d38.png)
+![image](https://user-images.githubusercontent.com/93950169/157079164-fc59a4da-35d2-49ee-9319-1b199bc112c7.png)
 
 Se procede a al ensamblaje del circuito
 
