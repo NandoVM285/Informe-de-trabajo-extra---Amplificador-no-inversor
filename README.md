@@ -78,6 +78,9 @@ Como siguiente punto procedemos a medir el voltaje mientras otorgamos un cierto 
 ![WhatsApp Image 2022-03-05 at 11 50 36](https://user-images.githubusercontent.com/93950169/156998140-de03eb90-62fc-4cd6-b570-03f6395ff9d0.jpeg)
 
 5. VIDEO 
+
+https://www.youtube.com/watch?v=YZuJ4vNUbpw
+
 6. CONCLUSIONES 
 
 - Este amplificador operacional no inversor la salida de la señal no tiene desfase y la ganacia varía de acuerdo al valor de Rf
